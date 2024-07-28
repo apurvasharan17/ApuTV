@@ -28,7 +28,7 @@ export const Navbar = () => {
             />
           )}
 
-          <div className="navbar-title">RangerTV</div>
+          <div className="navbar-title">ApuTV</div>
         </div>
 
         {location.pathname === "/video-listing-page" && (
