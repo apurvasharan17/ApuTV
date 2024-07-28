@@ -1,7 +1,7 @@
 ## Video Library App - RangerTV
 
 This is a Video Library Project to watch shows of various genres. <br/>
-live link : https://ranger-tv.netlify.app/
+live link : https://aputv.vercel.app/
 
 ## Features
 
